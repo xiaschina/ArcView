@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="arc">
+        <attr name="arcbump" format="boolean" />
+        <attr name="archeight" format="integer" />
+        <attr name="arcbgcolor" format="integer" />
+    </declare-styleable>
+</resources>
